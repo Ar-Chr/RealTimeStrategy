@@ -1,0 +1,1 @@
+Don't activate selection box when dragging buildings from BuildMenu
